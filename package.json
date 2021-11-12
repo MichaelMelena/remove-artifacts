@@ -1,7 +1,7 @@
 {
   "name": "delete-artifacts",
   "version": "1.0.0",
-  "description": "GitHub action that deletes artifacts",
+  "description": "GitHub action that removes artifacts",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MichaelMelena/delete-artifacts.git"
+    "url": "git+https://github.com/MichaelMelena/remove-artifacts.git"
   },
   "keywords": [
     "GitHub",
@@ -20,9 +20,9 @@
   "author": "Michael Melena",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MichaelMelena/delete-artifacts/issues"
+    "url": "https://github.com/MichaelMelena/remove-artifacts/issues"
   },
-  "homepage": "https://github.com/MichaelMelena/delete-artifacts#readme",
+  "homepage": "https://github.com/MichaelMelena/remove-artifacts#readme",
   "dependencies": {
     "@actions/core": "^1.2.5",
     "@octokit/action": "^3.18.0",
